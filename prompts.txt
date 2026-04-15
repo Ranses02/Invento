@@ -1,0 +1,4 @@
+vamos a realizar una pagina web basica de a poco la vamos mejorando, la idea que tengo es que sera una pagina wer de servicios de hoteles low cost donde le usuario tenga una mayor experiencia
+ahora vamos a mejorar el formato visizual de la pagina y la distibucion de ella.
+
+vamos agregar un color plomo y un nuevo navar y un menu de busqueda
